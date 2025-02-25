@@ -1,0 +1,12 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// WiFi credentials
+#define WIFI_SSID "your_wifi_ssid"
+#define WIFI_PASSWORD "your_wifi_password"
+
+// Optional: Additional configuration
+// #define LED_BRIGHTNESS 40  // Uncomment to override default brightness
+// #define UPDATE_INTERVAL 60000  // Uncomment to override default update interval (ms)
+
+#endif // CONFIG_H
