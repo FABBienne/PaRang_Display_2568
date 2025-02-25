@@ -105,4 +105,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 - Weather data provided by [Open-Meteo.com](https://open-meteo.com)
 - Air quality data provided by [Sensor.Community](https://sensor.community)
 
-![PaRang when there's no current](assets/dDisplay_off.jpg)
+![PaRang when there's no current](assets/Display_off.jpg)
