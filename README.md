@@ -5,7 +5,7 @@ This project creates an LED matrix display that shows real-time PM2.5 air qualit
 
 ## Demo
 
-https://github.com/FABBienne/PaRang_Display_2568/assets/Display_PaRang.mp4
+https://user-images.githubusercontent.com/YOUR_USER_ID/PaRang_Display_2568/assets/main/assets/Display_PaRang.mp4?raw=true
 
 ## Features
 
