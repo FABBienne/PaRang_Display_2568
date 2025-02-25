@@ -1,6 +1,11 @@
+![PaRang Display in action](assets/dDisplay_on.jpg)x
 # PM2.5 and Weather Display Project
 
 This project creates an LED matrix display that shows real-time PM2.5 air quality data and weather information for Chiang Mai, Thailand. It uses an ESP32-S3 microcontroller to fetch data from multiple sources and display it on a 32x8 LED matrix.
+
+## Demo
+
+https://github.com/FABBienne/PaRang_Display_2568/assets/Display_PaRang.mp4
 
 ## Features
 
@@ -20,6 +25,8 @@ This project creates an LED matrix display that shows real-time PM2.5 air qualit
 - 32x8 LED Matrix (WS2812B)
 - Power supply suitable for the LED matrix
 - WiFi connection
+
+- 3D-printed stands for the Matrix (files provided under `Matrix_Stand_v0.2`)
 
 ## Software Dependencies
 
@@ -97,3 +104,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 - Weather data provided by [Open-Meteo.com](https://open-meteo.com)
 - Air quality data provided by [Sensor.Community](https://sensor.community)
+
+![PaRang when there's no current](assets/dDisplay_off.jpg)
