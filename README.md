@@ -1,4 +1,4 @@
-![PaRang Display in action](assets/dDisplay_on.jpg)x
+![PaRang Display in action](assets/Display_on.jpg)
 # PM2.5 and Weather Display Project
 
 This project creates an LED matrix display that shows real-time PM2.5 air quality data and weather information for Chiang Mai, Thailand. It uses an ESP32-S3 microcontroller to fetch data from multiple sources and display it on a 32x8 LED matrix.
